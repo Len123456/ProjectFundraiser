@@ -1,0 +1,33 @@
+.buttonEtherscan{
+    width: 95%;
+    height: 15%;
+    color: white !important;
+    background: rgb(2, 10, 75) !important;
+    margin-Top: 2% !important;
+}
+
+.buttonEtherscan:hover{
+    background: rgb(11, 15, 32) !important;
+}
+
+.leftPaper{
+    background:rgb(2, 10, 75) !important; 
+    height: 100%; 
+    min-width: 350px; 
+    max-height: 500px; 
+}
+
+.box{
+    border-radius: 15px;
+    background: rgb(2, 10, 75); 
+    border-color: rgb(11, 15, 32) !important;
+    border-width: 3px;
+    border-style: solid;
+    margin-left: 2%; 
+    margin-right: 2%;
+}
+
+.leftGridItem{
+    display: flex;
+    justify-content: space-between;
+}

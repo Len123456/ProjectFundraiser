@@ -1,0 +1,32 @@
+.sideNavButtonInactive{
+    height: 70px !important;
+    width: 100% !important;
+    color: white !important;
+    justify-content: left !important;
+}
+
+.sideNavButton{
+    background:#61dafb !important;
+    height: 70px !important;
+    width: 100% !important;
+    justify-content: left !important;
+}
+
+.sideNavButtonInactive:hover{
+    background: darkblue !important;
+    color: rgb(253, 230, 230) !important;
+    justify-content: left !important;
+}
+
+.sideNavButtonSmall{
+    background:#61dafb !important;
+    height: 70px !important;
+    width: 100% !important;
+    justify-content: left !important;
+}
+
+.sideNavButtonSmallInactive:hover{
+    background: darkblue !important;
+    color: rgb(253, 230, 230) !important;
+    justify-content: left !important;
+}

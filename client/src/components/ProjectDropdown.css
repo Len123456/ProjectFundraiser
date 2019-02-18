@@ -1,0 +1,13 @@
+.root {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.formControl {
+    margin: auto !important;
+    min-width: 120;
+    }
+
+.helpertext {
+    color: white;
+}

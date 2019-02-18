@@ -1,0 +1,22 @@
+.topPaper {
+    width: 96%;
+    height: 250px;
+    margin-top: 2%;
+}
+
+.bottomPaper {
+    width: 96%;
+    background: rgb(2, 10, 75) !important;
+    height: 350px;
+    margin-top: 2%;
+}
+
+.headerTop {
+    text-align: center; 
+    color: black;
+    margin-top: 5%;
+}
+
+.headerBottom {
+    text-align: center; 
+}

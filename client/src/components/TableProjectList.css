@@ -1,0 +1,19 @@
+.tableRow{
+    color: white !important;
+}
+
+.tableRow:hover{
+    background: rgb(11, 15, 32) !important;
+    color: black !important;
+}
+
+.tableHead{
+    color:white !important;
+    background: rgb(11, 15, 32);
+}
+
+.tableContainer{
+    color:white !important;
+    background: rgb(11, 15, 32) !important;
+    margin: 0 auto;
+}
